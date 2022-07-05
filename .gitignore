@@ -1,0 +1,25 @@
+# Training logging
+logs/
+wandb/
+
+# raw data
+data/
+
+# data
+data/archived/
+data/msmaroc-psg/
+
+# checkpoints
+checkpoints/*
+!checkpoints/README.md
+
+# dpr
+dpr/encoded/
+dpr/faiss-indexes/
+
+# spr
+spr/indexes/
+spr/runs/
+
+__pycache__/
+*.swp

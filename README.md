@@ -1,2 +1,3 @@
-# TctColBert-pytorch
-ColBert pytorch implementation, and ColBert variant as well.
+# ColBertZoo
+
+ColBert pytorch implementations with different kinds of training settings. 
